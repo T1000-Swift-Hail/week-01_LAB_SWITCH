@@ -1,8 +1,8 @@
 # week-01_LAB_SWITCH
 
 
-## - Create a new playground in your Xcode IDE, name it : conditionals_lab_switch
-## - Change the following code to use the Swich conditional instead of If-Else
+##  Create a new playground in your Xcode IDE, name it : conditionals_lab_switch
+### - Change the following code to use the Swich conditional instead of If-Else
 
  let colorBlue  = "Blue"  
  let colorRed = "Red"  
