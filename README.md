@@ -11,7 +11,7 @@
  if  colorPicked == colorRed {   
       print("Yes! this is the picked color")  
  } else if colorPicked == colorBlue   {  
-      print ("Not the picked color!")  
+      c  
  } else {  
       print("color picked is not known")  
  }  
