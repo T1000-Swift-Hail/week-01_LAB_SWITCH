@@ -8,7 +8,7 @@
  let colorRed = "Red"  
  let colorPicked = "Red"  
  
- if  colorPicked == colorRed {. 
+ if  colorPicked == colorRed {   
      print("Yes! this is the picked color")  
  } else if colorPicked == colorBlue   {  
      print ("Not the picked color!")  
